@@ -1,6 +1,7 @@
 - 👋 My name is Kacper
 - 🌱 I’m currently studying law and programming in JavaScript and Typescirpt
 - :point_right: React Developer :point_left:
+- Check my portfolio here: :globe_with_meridians: https://kacperzurawski.netlify.app/
 - 👀 My passion is :soccer:
 - :mailbox::arrow_right: kacperzurawski.kz@gmail.com, 
 - :pushpin: www.linkedin.com/in/kacper-zurawski22 :pushpin:
