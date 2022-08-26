@@ -1,4 +1,5 @@
 - 👋 My name is Kacper
 - 🌱 I’m currently studying law and learning programming in JavaScript and Typescirpt
 - 👀 My passion is :soccer:
-- :mailbox::arrow_right: kacperzurawski.kz@gmail.com, https://www.linkedin.com/in/kacper-%C5%BCurawski-136809206/
+- :mailbox::arrow_right: kacperzurawski.kz@gmail.com, 
+- :linkedin: https://www.linkedin.com/in/kacper-%C5%BCurawski-136809206/
