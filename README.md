@@ -1,7 +1,7 @@
 - 👋 My name is Kacper
 - 🌱 I’m currently studying law and programming in JavaScript and Typescirpt 🌱
 - 👉 React Developer 👈
-- Check my portfolio here 👉 🌐https://kacperzurawski.netlify.app/🌐
+- Check my portfolio here 👉 🌐https://kacperzurawski.netlify.app/ 🌐
 - 📫➡️ kacperzurawski.kz@gmail.com ⬅️ 
 - 📌 www.linkedin.com/in/kacper-zurawski22 📌
 - 👀 My passion is ⚽ & 🎾
