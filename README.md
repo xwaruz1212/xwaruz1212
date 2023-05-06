@@ -20,7 +20,7 @@
 
 ## My Projects: 
 
-### [WEBSITE PORTFOLIO](https://makislazos.netlify.app/)
+### [Website gallery created for artist based in London](https://makislazos.netlify.app/)
 ### [MY PORTFOLIO WEBSITE](https://kacperzurawski.netlify.app/)
 
 ## Collaboration:
