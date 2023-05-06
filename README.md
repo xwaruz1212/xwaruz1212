@@ -1,34 +1,38 @@
 # Hi👋 My name is Kacper
 
-## Some facts about me: 
+### Some facts about me: 
 
-### 🌱 I’m currently programming in JavaScript and Typescirpt 🌱
-### 👉 React Developer 👈
-### 🥇 I love ⚽ and 🎾
+👉 React Developer 👈
 
-----------------------------------------------------------------------
+🌱 programming in JavaScript and Typescirpt 🌱
 
-## Find me:
+🥇 I love ⚽ and 🎾
 
-### Check my portfolio here 👉 🌐https://kacperzurawski.netlify.app/ 🌐
-
-### Write direct message here 📫➡️ kacperzurawski.kz@gmail.com ⬅️ 
-
-### Checkout my LinkedIn profile here 📌 www.linkedin.com/in/kacper-zurawski22 📌
 
 ----------------------------------------------------------------------
 
-## My Projects: 
+### My Projects: 
 
-### [Website gallery created for artist based in London](https://makislazos.netlify.app/)
-### [MY PORTFOLIO WEBSITE](https://kacperzurawski.netlify.app/)
+#### Proffesional commissions
 
-## Collaboration:
+[Website gallery](https://makislazos.netlify.app/) - created for artist based in London, React
 
-### [PROTRICKS](https://www.protricks.pl/)
+[PROTRICKS](https://www.protricks.pl/) - collaboration, added payment system and more for local acrobatics school
 
-## Check my code: 
+#### Personal projects:
 
-### [WEBSITE PORTFOLIO](https://github.com/xwaruz1212/website_gallery) 💼
-### [SLOT MACHINE](https://github.com/xwaruz1212/Slot-Machine) 🎰
-### [BIRD GAME](https://github.com/xwaruz1212/BirdGame) 🐦
+[WEBSITE PORTFOLIO](https://github.com/xwaruz1212/website_gallery) 💼 - React
+
+[SLOT MACHINE](https://github.com/xwaruz1212/Slot-Machine) 🎰 - PixiJs, javascript
+
+[BIRD GAME](https://github.com/xwaruz1212/BirdGame) 🐦 - javascript, html, css
+
+----------------------------------------------------------------------
+
+### Find me:
+
+Check my portfolio here 👉 🌐https://kacperzurawski.netlify.app/ 🌐
+
+Write direct message here 📫➡️ kacperzurawski.kz@gmail.com ⬅️ 
+
+Checkout my LinkedIn profile here 📌 www.linkedin.com/in/kacper-zurawski22 📌
