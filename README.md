@@ -13,7 +13,7 @@
 
 ### My Projects: 
 
-#### Proffesional commissions
+#### Profesional commissions
 
 [Website gallery](https://makislazos.netlify.app/) - created for artist based in London, React
 
