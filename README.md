@@ -2,7 +2,7 @@
 
 ### Some facts about me: 
 
-👉 React Developer 👈
+👉 Frontend Developer 👈
 
 🌱 programming in JavaScript and Typescirpt 🌱
 
