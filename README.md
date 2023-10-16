@@ -21,8 +21,6 @@
 
 #### Personal projects:
 
-[WEBSITE PORTFOLIO](https://github.com/xwaruz1212/website_gallery) 💼 - React
-
 [SLOT MACHINE](https://github.com/xwaruz1212/Slot-Machine) 🎰 - PixiJs, javascript
 
 [BIRD GAME](https://github.com/xwaruz1212/BirdGame) 🐦 - javascript, html, css
