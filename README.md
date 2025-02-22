@@ -29,8 +29,6 @@
 
 ### Find me:
 
-Check my portfolio here 👉 🌐https://kacperzurawski.netlify.app/ 🌐
-
 Write direct message here 📫➡️ kacperzurawski.kz@gmail.com ⬅️ 
 
 Checkout my LinkedIn profile here 📌 www.linkedin.com/in/kacper-zurawski22 📌
